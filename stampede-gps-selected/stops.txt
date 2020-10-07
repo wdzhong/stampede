@@ -1,0 +1,17 @@
+number,name,lat,lon,direction,place ID
+1,ellicott,,,,
+2,lee loop,43.002079,-78.785888,,
+3,governors,43.002150,-78.793485,down,
+4,flint loop,43.000231,-78.789247,,
+5,service center,42.99277,-78.792362,down,ChIJRVmf0Mpz04kRYIYgAaARRn8
+6,maynard,42.96651,-78.810812,down,ChIJ7y7KzfNy04kRDPQmqVsrc9g
+7,goodyear,42.956757,-78.815836,,
+8,main circle,42.954085,-78.819289,,
+9,maynard,42.965899,-78.81121,up,ChIJh5hQNvJy04kRhD4irBggG0s
+10,service center,42.992483,-78.792091,up,ChIJjwG_xcpz04kR-9wHYH4ARB0
+11,flint loop,43.000231,-78.789247,,
+12,governors,43.002401,-78.793366,up,
+13,triad apt,42.988359,-78.791057,down,
+14,triad apt,42.988249,-78.790844,up,
+15,sheridan dr,42.978721,-78.799770,down,
+16,sheridan dr,42.978643,-78.799547,up,

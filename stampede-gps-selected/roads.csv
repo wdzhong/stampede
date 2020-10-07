@@ -1,0 +1,8 @@
+road segment,# of lanes,# of stops signs,# of traffic lights,speed limit,lat. of road center,lon. of road center
+lee loop-governors,1,3,0,25,43.003146,-78.789810
+governors-flint loop,1,2,0,25,42.998047,-78.791811
+flint loop-service center,2,1,1,35,42.996433,-78.790846
+service center-triad apt,1.5,0,2,35,42.990068,-78.792391
+triad apt-sheridan dr,2,0,2,45,42.984186,-78.794648
+sheridan dr-maynard,2,0,3,40,42.973540,-78.804534
+maynard-main circle,2,1,3,40,42.962155,-78.813891
