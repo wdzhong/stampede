@@ -1,0 +1,2 @@
+- [ ] Add more reference points on each road to make the map matching more accurate.
+    - Create file under the `stampede-gps-selected` folder to save these points
